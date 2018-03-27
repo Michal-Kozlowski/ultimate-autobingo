@@ -1,6 +1,6 @@
 # UltimateAutobingo
 
-In order to run this app you need to go into /server folder and run 'node server.js'. It will create server on `http://localhost:3000/`.
+In order to run this app, you need to go into /server folder and run 'node server.js'. It will create server on `http://localhost:3000/`.
 
 Next open index.html file located in /dist folder or run `ng serve -o` from /ultimate-autobingo folder.
 
